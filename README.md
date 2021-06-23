@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="left">
 	<a href="https://www.w3schools.com/css/" target="_blank">
 		<img
-			src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/428px-CSS.3.svg.png"
 			alt="css3"
 			width="40"
 			height="40"
